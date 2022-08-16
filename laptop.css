@@ -1,0 +1,190 @@
+
+/* This will missblance all width */
+
+/*   
+@media(max-width:1199px){
+  
+    #a1:after{
+        content: "";
+        position: absolute;
+        top: 40px;
+        left: 400px;    
+        background: linear-gradient(to right,rgb(1, 1, 255),rgb(255, 0, 255) );
+        height: 3px;
+        width: 0%;
+        transition: 0.3s;
+        
+        }
+    #a1:hover{
+        color: black;
+    font-weight: bolder;
+    
+    }
+    
+    #a1:hover:after{
+        width: 8%;
+        
+        
+        }
+    
+        
+
+
+        
+
+
+        #a2{
+            padding-left:30px;
+        }
+#a2:after{
+    content: "";
+    position: absolute;
+    top: 40px;
+    left: 490px;    
+    
+    background: linear-gradient(to right,rgb(1, 1, 255),rgb(255, 0, 255) );
+    
+
+
+    height: 3px;
+    width: 0%;
+    transition: 0.3s;
+    
+    }
+    #a2:hover{
+        color: black;
+    font-weight: bolder;
+    
+    }
+    
+    #a2:hover:after{
+    width: 8%;
+    
+    
+    }
+
+#a3{
+    padding-left:30px;
+}
+    
+#a3:after{
+    content: "";
+    position: absolute;
+    top: 40px;
+    left: 580px;    
+    
+    background: linear-gradient(to right,rgb(1, 1, 255),rgb(255, 0, 255) );
+    
+
+
+    height: 3px;
+    width: 0%;
+    transition: 0.3s;
+    
+    }
+    #a3:hover{
+        color: black;
+    font-weight: bolder;
+    
+    }
+    
+    #a3:hover:after{
+    width: 8%;
+    
+    
+    }
+
+    #a4{
+        padding-left: 30px;
+    }
+    
+#a4:after{
+    content: "";
+    position: absolute;
+    top: 40px;
+    left: 660px;    
+    
+    background: linear-gradient(to right,rgb(1, 1, 255),rgb(255, 0, 255) );
+    
+
+
+    height: 3px;
+    width: 0%;
+    transition: 0.3s;
+    
+    }
+    #a4:hover{
+        color: black;
+    font-weight: bolder;
+    
+    }
+    
+    #a4:hover:after{
+    width: 9%;
+    
+    
+    } 
+
+            #btn{
+                border-right: none;
+                border-bottom: solid;    
+            background: linear-gradient(to right,rgb(1, 1, 255),rgb(255, 0, 255) );
+                color: wheat;
+                font-weight: bold;
+                transition: 2s;
+                margin-left: 250px;
+                margin-top: 50px;
+        
+        
+            }
+        #btn-1{
+        font-size: 18px;
+        padding-top: 40px;
+        text-decoration: none;
+        
+        
+        }
+        #btn-1:after{
+            content: "";
+            position: absolute;
+            top: 70px;
+            left: 15px;    
+            
+            background: linear-gradient(to right,rgb(1, 1, 255),rgb(255, 0, 255) );
+            
+        
+        
+            height: 3px;
+            width: 0%;
+            transition: 0.3s;
+            
+            }
+            #btn-1:hover{
+                color: black;
+            font-weight: bolder;
+            
+            }
+            
+            #btn-1:hover:after{
+            width: 76%;
+            
+            
+            }
+    
+            #img-1{
+                position: relative;
+                left: 70px; 
+    
+            }
+        
+            #img-2{
+                display: none;
+    
+    
+            }
+    
+
+}
+
+ 
+ */
